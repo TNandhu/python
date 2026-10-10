@@ -1,0 +1,5 @@
+print("hello!")
+print("hello! \n what is your name ? \n and age..?")
+print ("i am nandhu"+" and i am 20 years old")
+name = input("what is  your name? \n and your age?")
+print (name, len(name))
