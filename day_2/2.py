@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+lenght = len(name)
+print (type('namer of letter in the  name is :'))
+print (type(lenght))
+print ("namer of letter in the name is :" + str(lenght))
+print (type("number of letter is:"))
