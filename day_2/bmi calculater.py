@@ -11,5 +11,7 @@ print (name,age,wight,hight,"bmi is:",str(bmi))
 
 # 
 score = 0
-score *=2
+score +=2
 print(score)
+
+
